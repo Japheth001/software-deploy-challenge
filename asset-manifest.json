@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/software-deploy-challenge/static/css/main.886b0547.chunk.css",
+    "main.js": "/software-deploy-challenge/static/js/main.ffa9cece.chunk.js",
+    "main.js.map": "/software-deploy-challenge/static/js/main.ffa9cece.chunk.js.map",
+    "runtime-main.js": "/software-deploy-challenge/static/js/runtime-main.c585740d.js",
+    "runtime-main.js.map": "/software-deploy-challenge/static/js/runtime-main.c585740d.js.map",
+    "static/js/2.f4461f3a.chunk.js": "/software-deploy-challenge/static/js/2.f4461f3a.chunk.js",
+    "static/js/2.f4461f3a.chunk.js.map": "/software-deploy-challenge/static/js/2.f4461f3a.chunk.js.map",
+    "static/js/3.bffaf917.chunk.js": "/software-deploy-challenge/static/js/3.bffaf917.chunk.js",
+    "static/js/3.bffaf917.chunk.js.map": "/software-deploy-challenge/static/js/3.bffaf917.chunk.js.map",
+    "index.html": "/software-deploy-challenge/index.html",
+    "static/css/main.886b0547.chunk.css.map": "/software-deploy-challenge/static/css/main.886b0547.chunk.css.map",
+    "static/js/2.f4461f3a.chunk.js.LICENSE.txt": "/software-deploy-challenge/static/js/2.f4461f3a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c585740d.js",
+    "static/js/2.f4461f3a.chunk.js",
+    "static/css/main.886b0547.chunk.css",
+    "static/js/main.ffa9cece.chunk.js"
+  ]
+}
